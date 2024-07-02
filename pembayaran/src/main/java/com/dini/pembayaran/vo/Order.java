@@ -8,7 +8,7 @@ package com.dini.pembayaran.vo;
 
 /**
  *
- * @author Dell
+ * @author Dini
  */
 public class Order {
     

@@ -13,7 +13,7 @@ import jakarta.persistence.Table;
 
 /**
  *
- * @Dell
+ * @Author Dini
  */
 @Entity
 @Table
